@@ -16,7 +16,7 @@
      <meta name="description" content="selamat datang di website LANDAKTOTO, bandar togel online, situs toto togel yang sangat aman terpercaya dengan pelayanan baik, hasil akurat serta result tercepat.">
      <meta name="keywords" content="landaktoto, togel online, situs toto, toto togel, situs togel, bandar togel, bandar togel online, slot gacor" />
      <link rel="canonical" href="https://orientation.deltastate.gov.ng/">
-     <link rel="amphtml" href="https://anekuan.pages.dev/bonengjitu/tes.html"/>
+     <link rel="amphtml" href="https://anekuan.pages.dev/landakbro/tes.html"/>
      <!-- /snippets/social-meta-tags.liquid -->
      <meta property="og:type" content="LANDAKTOTO MACAU">
      <meta property="og:title" content="LANDAKTOTO ✈️ Bandar Togel Online Aman & Situs Toto Togel Terjamin">
@@ -87,10 +87,10 @@
        <!-- Global site tag (gtag.js) - Google Analytics -->
      
      <div class="button-login-daftar">
-                     <a class="login" href="https://anekuan.pages.dev/bonengjitu/tes.html" rel="nofollow noreferrer" style="color: white;">
+                     <a class="login" href="https://anekuan.pages.dev/landakbro/tes.html" rel="nofollow noreferrer" style="color: white;">
                          LOGIN
                      </a>
-                     <a class="register" href="https://anekuan.pages.dev/bonengjitu/tes.html" rel="nofollow noreferrer" style="color: white;">
+                     <a class="register" href="https://anekuan.pages.dev/landakbro/tes.html" rel="nofollow noreferrer" style="color: white;">
                          DAFTAR
                      </a>
                  </div>
@@ -528,7 +528,7 @@
      </div>
      
        <div class="col-6 login-register text-right p-0">
-         <a href="https://anekuan.pages.dev/bonengjitu/tes.html">Log In</a> | <a href="https://anekuan.pages.dev/bonengjitu/tes.html">Sign Up</a>
+         <a href="https://anekuan.pages.dev/landakbro/tes.html">Log In</a> | <a href="https://anekuan.pages.dev/landakbro/tes.html">Sign Up</a>
        </div>
    </div>
    <ul class="nav-menu container">
@@ -3082,7 +3082,7 @@
    
      
      <div class="delivery-city mb-4">
-         <a href="https://anekuan.pages.dev/bonengjitu/tes.html">
+         <a href="https://anekuan.pages.dev/landakbro/tes.html">
         <center><img src="https://cdn.kuemeranti.store/images/Zj8bKkl.gif" alt="logo-daftar" style="width: 260px; margin-top: -20px;"></center></a><br>
    <h4 class="fw-600 text-uppercase mb-15" style="color: rgb(236, 236, 67);">SEKARANG WAKTUNYA DAFTAR AKUN BARU DI LANDAKTOTO!</h4>
    <div class="row justify-content-between m-0">
@@ -6098,7 +6098,7 @@
      const total_all = total50k + total100k
      $(".prop50k").html(`<span>${qty50k} Lembar: <strong class="pl-1">${money(total50k)}</strong></span>`)
      $(".prop100k").html(`<span>${qty100k} Lembar: <strong class="pl-1">${money(total100k)}</strong></span>`)
-     $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://anekuan.pages.dev/bonengjitu/tes.html" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
+     $(".itemMoney").html(`<p>For the money arrangement, please transfer <strong>IDR ${money(total_all)}</strong> to <strong>Bank Mandiri 1020001234522 (PT Modern Mekar Abadi)</strong> and contact our <a href="https://anekuan.pages.dev/landakbro/tes.html" target="_blank" style="text-decoration: underline; color: #8d3f2d">Customer Service</a> to confirm with proof of payment.</p>`)
    }
  
    async function removeImage() {
@@ -12607,23 +12607,23 @@
  </style>
      
      <div class="daftarku-fixed-footer">
-     <a href="https://anekuan.pages.dev/bonengjitu/tes.html" rel="nofollow noopener" target="_blank">
+     <a href="https://anekuan.pages.dev/landakbro/tes.html" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/07/30/promo.png" alt="PROMOSI">
          PROMO
      </a>
-     <a href="https://anekuan.pages.dev/bonengjitu/tes.html" rel="nofollow noopener" target="_blank">
+     <a href="https://anekuan.pages.dev/landakbro/tes.html" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/07/30/login.png" alt="LOGIN">
          LOGIN
      </a>
-     <a href="https://anekuan.pages.dev/bonengjitu/tes.html" rel="nofollow noopener" target="_blank" class="tada">
+     <a href="https://anekuan.pages.dev/landakbro/tes.html" rel="nofollow noopener" target="_blank" class="tada">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/07/30/daftar.png" alt="DAFTAR">
          DAFTAR
      </a>
-     <a href="https://anekuan.pages.dev/bonengjitu/tes.html" rel="nofollow noopener" target="_blank">
+     <a href="https://anekuan.pages.dev/landakbro/tes.html" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/08/27/icon-whatsapp.png" alt="WHATSAPP">
          WHATSAPP
      </a>
-     <a href="https://anekuan.pages.dev/bonengjitu/tes.html" rel="nofollow noopener" target="_blank"
+     <a href="https://anekuan.pages.dev/landakbro/tes.html" rel="nofollow noopener" target="_blank"
          class="js_live_chat_link live-chat-link">
          <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://imgstore.io/images/2025/06/17/live-chat.png" alt="Live Chat">
          Live Chat
